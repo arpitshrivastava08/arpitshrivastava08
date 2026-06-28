@@ -48,7 +48,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/arpitshrivastava08/arpitshrivastava08/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
